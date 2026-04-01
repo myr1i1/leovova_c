@@ -10,6 +10,7 @@ int main() {
     int minutes = (seconds % 3600) / 60;
     int secs = seconds % 60;
     
+    
     printf("Время: %02d:%02d:%02d\n", hours, minutes, secs);
     
     return 0;

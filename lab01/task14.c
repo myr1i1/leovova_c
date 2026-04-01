@@ -7,7 +7,7 @@ int main() {
     printf("Адрес b: %p\n", (void*)&b);
     printf("Адрес c: %p\n", (void*)&c);
     
-    // Вычислила разницу между адресами (в байтах)
+    
     printf("Разница между a и b: %ld байт\n", 
            (long)&b - (long)&a);
     printf("Разница между b и c: %ld байт\n", 

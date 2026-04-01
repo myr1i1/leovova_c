@@ -2,6 +2,7 @@
 
 int main(void)
 {
+	
 	int a = 67;
 	char c  = 'J';
 	float b  = 9.9;

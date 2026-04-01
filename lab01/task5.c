@@ -10,6 +10,7 @@ int main() {
     printf("a-- = %d\n", a--);
     printf("После a--: %d\n", a);
     printf("--a = %d\n", --a);
+    
 
     return 0;
 }

@@ -2,7 +2,7 @@
 #include <limits.h>
 
 int main() {
-    int x = INT_MAX;  // 2147483647
+    int x = INT_MAX;
     printf("Максимальное значение int: %d\n", x);
     
     x = x + 1;

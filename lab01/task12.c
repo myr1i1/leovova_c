@@ -11,6 +11,7 @@ int main() {
         return 1;
     }
     
+    
     int hundreds = num / 100;
     int tens = (num / 10) % 10;
     int ones = num % 10;

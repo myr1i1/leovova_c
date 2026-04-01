@@ -7,4 +7,5 @@ int main(void)
 	scanf("%d %d", &a, &b);
 	printf("Остаток от деления %d на %d: %d\n", a, b, a % b);
 	return 0;
+	
 }

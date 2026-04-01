@@ -5,6 +5,7 @@ int main() {
     
     printf("До обмена: a = %d, b = %d\n", a, b);
     
+    
     c = a;
     a = b;
     b = c;

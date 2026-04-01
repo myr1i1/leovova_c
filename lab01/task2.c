@@ -7,4 +7,5 @@ int main(void)
 	printf("sizeof float: %lu\n", sizeof(float));
 	printf("sizeof double %lu\n", sizeof(double));
 	return 0;
+	
 }

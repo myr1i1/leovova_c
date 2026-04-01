@@ -6,5 +6,6 @@ int main() {
     
     printf("a + b с точностью 20 знаков: %.20f\n", a + b);
     
+    
     return 0;
 }
